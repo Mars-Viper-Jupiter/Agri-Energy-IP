@@ -1,0 +1,802 @@
+[
+  {
+    "province": "เลย",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 356,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "เลย",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 356,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 365,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 365,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "อุดรธานี",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 351,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "อุดรธานี",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 351,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "หนองคาย",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 306,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "หนองคาย",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 306,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "บึงกาฬ",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 293,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "บึงกาฬ",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 293,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "สกลนคร",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 335,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "สกลนคร",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 335,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "นครพนม",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 325,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "นครพนม",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 325,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "มุกดาหาร",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 407,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "มุกดาหาร",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 407,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ยโสธร",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 370,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ยโสธร",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 370,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 367,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 367,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "อุบลราชธานี",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 359,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "อุบลราชธานี",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 359,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 368,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 368,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "สุรินทร์",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 384,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "สุรินทร์",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 384,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "บุรีรัมย์",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 353,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "บุรีรัมย์",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 353,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "มหาสารคาม",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 355,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "มหาสารคาม",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 355,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 326,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 326,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 366,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 366,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ขอนแก่น",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 336,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ขอนแก่น",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 336,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ชัยภูมิ",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 384,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "ชัยภูมิ",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 384,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "นครราชสีมา",
+    "crop": "ข้าวหอมมะลิ",
+    "yield_kg_rai": 371,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "นครราชสีมา",
+    "crop": "ข้าวนาปี",
+    "yield_kg_rai": 371,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE"
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "ขอนแก่น",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ขอนแก่น",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ขอนแก่น",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "ชัยภูมิ",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ชัยภูมิ",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ชัยภูมิ",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "นครพนม",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "นครพนม",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "นครพนม",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "นครราชสีมา",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "นครราชสีมา",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "นครราชสีมา",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "บึงกาฬ",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "บึงกาฬ",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "บึงกาฬ",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "บุรีรัมย์",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "บุรีรัมย์",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "บุรีรัมย์",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "มหาสารคาม",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "มหาสารคาม",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "มหาสารคาม",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "มุกดาหาร",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "มุกดาหาร",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "มุกดาหาร",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "ยโสธร",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ยโสธร",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ยโสธร",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "เลย",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "เลย",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "เลย",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "สกลนคร",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "สกลนคร",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "สกลนคร",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "สุรินทร์",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "สุรินทร์",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "สุรินทร์",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "หนองคาย",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "หนองคาย",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "หนองคาย",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "อุดรธานี",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "อุดรธานี",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "อุดรธานี",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  },
+  {
+    "province": "อุบลราชธานี",
+    "crop": "มันสำปะหลัง",
+    "yield_kg_rai": 3226,
+    "year": 2567,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "อุบลราชธานี",
+    "crop": "ข้าวโพดเลี้ยงสัตว์",
+    "yield_kg_rai": 735,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-ประเทศ"
+  },
+  {
+    "province": "อุบลราชธานี",
+    "crop": "อ้อยโรงงาน",
+    "yield_kg_rai": 11000,
+    "year": 2566,
+    "unit": "กก./ไร่",
+    "source": "OAE-อ้างอิง"
+  }
+]

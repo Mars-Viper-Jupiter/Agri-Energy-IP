@@ -1,0 +1,222 @@
+[
+  {
+    "province": "กาฬสินธุ์",
+    "year": 2567,
+    "rain_mm": 1022,
+    "ndvi": 0.7,
+    "ndwi": 0.157,
+    "spi": -0.98,
+    "drought_level": "สูง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "ขอนแก่น",
+    "year": 2567,
+    "rain_mm": 1158,
+    "ndvi": 0.659,
+    "ndwi": 0.125,
+    "spi": -0.11,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "ชัยภูมิ",
+    "year": 2567,
+    "rain_mm": 1007,
+    "ndvi": 0.365,
+    "ndwi": 0.059,
+    "spi": -0.34,
+    "drought_level": "ปานกลาง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "นครพนม",
+    "year": 2567,
+    "rain_mm": 1430,
+    "ndvi": 0.428,
+    "ndwi": 0.025,
+    "spi": 0.6,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "นครราชสีมา",
+    "year": 2567,
+    "rain_mm": 946,
+    "ndvi": 0.557,
+    "ndwi": 0.212,
+    "spi": -0.49,
+    "drought_level": "ปานกลาง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "บึงกาฬ",
+    "year": 2567,
+    "rain_mm": 1678,
+    "ndvi": 0.693,
+    "ndwi": 0.021,
+    "spi": 0.3,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "บุรีรัมย์",
+    "year": 2567,
+    "rain_mm": 1111,
+    "ndvi": 0.65,
+    "ndwi": 0.214,
+    "spi": 0.75,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "มหาสารคาม",
+    "year": 2567,
+    "rain_mm": 1076,
+    "ndvi": 0.692,
+    "ndwi": 0.185,
+    "spi": -0.84,
+    "drought_level": "สูง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "มุกดาหาร",
+    "year": 2567,
+    "rain_mm": 1475,
+    "ndvi": 0.67,
+    "ndwi": 0.193,
+    "spi": 0.4,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "ยโสธร",
+    "year": 2567,
+    "rain_mm": 1288,
+    "ndvi": 0.609,
+    "ndwi": 0.065,
+    "spi": -0.88,
+    "drought_level": "สูง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "year": 2567,
+    "rain_mm": 1179,
+    "ndvi": 0.432,
+    "ndwi": 0.195,
+    "spi": 0.52,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "เลย",
+    "year": 2567,
+    "rain_mm": 1337,
+    "ndvi": 0.654,
+    "ndwi": 0.211,
+    "spi": -0.5,
+    "drought_level": "ปานกลาง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "year": 2567,
+    "rain_mm": 1327,
+    "ndvi": 0.421,
+    "ndwi": 0.048,
+    "spi": -1.15,
+    "drought_level": "สูง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "สกลนคร",
+    "year": 2567,
+    "rain_mm": 1337,
+    "ndvi": 0.453,
+    "ndwi": 0.142,
+    "spi": 0.73,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "สุรินทร์",
+    "year": 2567,
+    "rain_mm": 1222,
+    "ndvi": 0.662,
+    "ndwi": 0.049,
+    "spi": 0.16,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "หนองคาย",
+    "year": 2567,
+    "rain_mm": 1377,
+    "ndvi": 0.709,
+    "ndwi": 0.004,
+    "spi": -0.97,
+    "drought_level": "สูง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "year": 2567,
+    "rain_mm": 1137,
+    "ndvi": 0.571,
+    "ndwi": 0.054,
+    "spi": -1.12,
+    "drought_level": "สูง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "year": 2567,
+    "rain_mm": 1350,
+    "ndvi": 0.714,
+    "ndwi": -0.015,
+    "spi": -0.33,
+    "drought_level": "ปานกลาง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "อุดรธานี",
+    "year": 2567,
+    "rain_mm": 1317,
+    "ndvi": 0.366,
+    "ndwi": 0.081,
+    "spi": -0.82,
+    "drought_level": "สูง",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  },
+  {
+    "province": "อุบลราชธานี",
+    "year": 2567,
+    "rain_mm": 1503,
+    "ndvi": 0.549,
+    "ndwi": 0.166,
+    "spi": 0.65,
+    "drought_level": "ต่ำ",
+    "source": "TMD-RID-GISTDA-sample",
+    "period": "ปี 2567 รวม"
+  }
+]
